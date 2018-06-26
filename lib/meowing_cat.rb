@@ -1,5 +1,2 @@
 class Cat
-end 
-
-
-
+end
